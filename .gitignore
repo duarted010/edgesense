@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# MicroPython / tooling
+*.mpy
+*.bin
+secrets.py
+
+# KiCad backups
+*-backups/
+*.kicad_prl
+fp-info-cache
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
